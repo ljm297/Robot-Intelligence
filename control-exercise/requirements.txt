@@ -1,0 +1,8 @@
+numpy
+gym==0.19.0 
+opencv-python
+matplotlib
+imutils
+box2d-py==2.3.8
+pyglet==1.5.23
+pygame==2.1.0
